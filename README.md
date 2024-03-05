@@ -2,7 +2,8 @@
 
 Bem-vindo ao Selfcare Desafio Final - VaiNaWeb! Este projeto foi criado com o intuito educacional e de aprendizagem, proporcionando uma experiência de desenvolvimento prática e imersiva para estudantes e entusiastas da tecnologia. Aqui você encontrará uma variedade de recursos, ferramentas e informações para promover o autocuidado e o bem-estar através da tecnologia.
 
-![Selfcare Desafio Final][./img/selfcare.png]
+![selfcare](https://github.com/RenatofilhoDevandtech/Selfcare-DesafioFinal-VaiNaWeb/assets/59034938/e4509488-d7a9-4955-8cb6-13b0be844914)
+
 
 ## Linguagens Utilizadas
 
